@@ -11,3 +11,7 @@ After initializing the necessary files and reading them in as DataFrames, the fi
 
 # Exploratory Data Analysis
 Before any testing can be done to determine the answer to the question posed, it's important to understand what the variables are and what they represent. 
+<iframe src="assets/avg_rating_fig.html" width=800 height=600 frameBorder=0></iframe>
+The distribution of user given ratings.
+<iframe src="assets/steps_fig.html" width=800 height=600 frameBorder=0></iframe>
+The distribution of number of steps in a recipe.
